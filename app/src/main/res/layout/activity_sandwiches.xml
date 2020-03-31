@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorRed"
+    android:orientation="vertical"
+    android:id="@+id/caja"
+    tools:context=".Sandwiches">
+    <Button
+        android:id="@+id/ItalianoID"
+        android:text="@string/s1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="70dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="@color/colorYellow"
+        android:background="@color/colorHoits"
+        android:textSize="25sp">
+    </Button>
+    <Button
+        android:id="@+id/ChacareroID"
+        android:text="@string/s2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="70dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="@color/colorYellow"
+        android:background="@color/colorHoits"
+        android:textSize="25sp">
+    </Button>
+
+
+    <Button
+    android:id="@+id/BarrosID"
+        android:text="@string/s3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:height="70dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="@color/colorYellow"
+        android:background="@color/colorHoits"
+        android:textSize="25sp">
+</Button>
+
+    <Button
+        android:id="@+id/ChemilicoID"
+        android:text="@string/s4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="70dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="@color/colorYellow"
+        android:background="@color/colorHoits"
+        android:textSize="25sp">
+    </Button>
+
+    <Button
+        android:id="@+id/ArrolladoID"
+        android:text="@string/s5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="70dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="@color/colorYellow"
+        android:background="@color/colorHoits"
+        android:textSize="25sp">
+    </Button>
+
+
+
+</LinearLayout>

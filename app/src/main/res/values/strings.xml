@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FAST FOOD</string>
+
+    <string name="sandwiches">Sandwiches</string>
+    <string name="nosotros">Sobre Nosotros</string>
+    <string name="textoNosotros">Somos una empresa de la region con mas de 10 años de experiencia realizando sandwiches! Los mejores de la zona, si no chorrea no es fast food.</string>
+
+    <string name="s1">Italiano</string>
+    <string name="s2">Chacarero</string>
+    <string name="s3">Barros Luco</string>
+    <string name="s4">Chemilico</string>
+    <string name="s5">Arrollado Hueso</string>
+
+
+    <string name="descripcionS1">Contiene 400 gramos de bistec de posta rosada, 1 palta grande ,tomate en rodaja, mayonesa casera y pan frica</string>
+    <string name="descripcionS2">Contiene 3 bistec de posta rosada, mayonesa casera, pan frica, tomate en rodajas, 1/2 de taza de porotos verdes y aji verde a gusto</string>
+    <string name="descripcionS3">Contiene 4 bistec cortados de asiento, 4 laminas de queso mantecoso</string>
+    <string name="descripcionS4">Contiene 2 bistec de posta rosada, cebolla picada, 1 pan frica y un huevo frito</string>
+    <string name="descripcionS5">Contiene 200gr de arrollado hueso, tomate en rodajas, 1 palta, hojas de lechuga y mayonesa casera a gusto</string>
+
+
+    <string name="precioS1">VALOR:$2990</string>
+    <string name="precioS2">VALOR:$3500</string>
+    <string name="precioS3">VALOR:$2500</string>
+    <string name="precioS4">VALOR:$4000</string>
+    <string name="precioS5">VALOR:$5000</string>
+
+    <string name="barraS1">Detalle de sandwich italiano</string>
+    <string name="barraS2">Detalle de sandwich chacarero</string>
+    <string name="barraS3">Detalle de sandwich barros luco</string>
+    <string name="barraS4">Detalle de sandwich chemilico</string>
+    <string name="barraS5">Detalle de sandwich arrollado hueso</string>
+
+
+
+</resources>

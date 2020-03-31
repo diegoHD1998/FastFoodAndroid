@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorHoits"
+    tools:context=".Especificacion1">
+
+
+
+    <ImageView
+        android:id="@+id/imagenDetalle2"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+
+
+        >
+    </ImageView>
+    <TextView
+        android:id="@+id/detalle1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorYellow"
+        android:fontFamily="@font/alfa_slab_one"
+        android:paddingLeft="10dp"
+        android:textSize="25dp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/detalle3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="25dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:fontFamily="@font/alfa_slab_one">
+
+    </TextView>
+    <TextView
+        android:id="@+id/detalle4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorYellow"
+        android:textSize="25dp"
+        android:paddingLeft="140dp"
+        android:fontFamily="@font/alfa_slab_one">
+
+    </TextView>
+
+</LinearLayout>
