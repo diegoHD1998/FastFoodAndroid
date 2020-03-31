@@ -9,7 +9,7 @@
     <string name="s2">Chacarero</string>
     <string name="s3">Barros Luco</string>
     <string name="s4">Chemilico</string>
-    <string name="s5">Arrollado Hueso</string>
+    <string name="s5">Arrollado Huaso</string>
 
 
     <string name="descripcionS1">Contiene 400 gramos de bistec de posta rosada, 1 palta grande ,tomate en rodaja, mayonesa casera y pan frica</string>
@@ -25,11 +25,11 @@
     <string name="precioS4">VALOR:$4000</string>
     <string name="precioS5">VALOR:$5000</string>
 
-    <string name="barraS1">Detalle de sandwich italiano</string>
-    <string name="barraS2">Detalle de sandwich chacarero</string>
-    <string name="barraS3">Detalle de sandwich barros luco</string>
-    <string name="barraS4">Detalle de sandwich chemilico</string>
-    <string name="barraS5">Detalle de sandwich arrollado hueso</string>
+    <string name="barraS1">Detalle de sandwich Italiano</string>
+    <string name="barraS2">Detalle de sandwich Chacarero</string>
+    <string name="barraS3">Detalle de sandwich Barros luco</string>
+    <string name="barraS4">Detalle de sandwich Chemilico</string>
+    <string name="barraS5">Detalle de sandwich Arrollado huaso</string>
 
 
 
